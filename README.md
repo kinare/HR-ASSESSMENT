@@ -7,6 +7,14 @@ Import the ``hr_assessment`` sql backup.
 
 Unzip the project and open project root on terminal
 
+Install php and js dependencies (composer and nodejs required)
+
+```
+composer install
+npm install
+```
+
+
 Run migrations and seeders for sample data
 
 ```
